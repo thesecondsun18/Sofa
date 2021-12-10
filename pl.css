@@ -1,0 +1,117 @@
+@media only screen and (min-width: 600px) 
+{
+	body
+	{
+width: auto;
+height: auto;
+	}
+}
+#c1
+{
+	width: 100%;
+	height: 100vh;
+	display: grid;
+	grid-template-rows: 80px 600px 80px;
+	grid-template-columns: 0.5fr 1fr;
+}
+.checked
+{
+	color: cyan;
+}
+#c
+{
+	color: cyan;
+}
+
+#dc
+{
+	font-size: 30px;
+}
+#r1
+{
+	display: flex;
+}
+#n1
+{
+flex: 33.33%;
+padding: 3px;
+}
+#v1
+{
+	width: 80%;
+	border: 1px solid black;
+	padding: 15px;
+	background-color: black;
+	color: white;
+}
+#v2
+{
+	width: 85%;
+	border: 1px solid black;
+	padding: 15px;
+	background-color: white;
+}
+#fk
+{
+	display: flex;
+	clear: both;
+}
+#t1
+{
+	padding-bottom: 200px;
+	border-spacing: 10px;
+}
+#uu
+{
+	padding-left: 10px;
+	font-family: sans-serif;
+}
+.row 
+{
+  display: flex;
+}
+
+.column {
+  flex: 55%;
+  padding: 10px;
+}
+#bb
+{
+	margin: 30px;
+text-align: left;
+}
+#so
+{
+	color: black;
+}
+#f4
+{
+	font-size: 34px;
+	padding-top: 40px;
+	font-family: georgia;
+}
+#f5
+{
+	font-family: georgia;
+	font-size: 18px;
+}
+#f6
+{
+   font-family: georgia;
+	font-size: 15px;
+}
+.i1
+{
+  padding: 15px;
+  width: 630px;
+  height: 450px;
+}
+#b1
+{
+	font-family: georgia;
+	display: flex;
+}
+#y1
+{
+	flex: 50%;
+}
